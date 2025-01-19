@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ecdc03c5.js",
+    "static/media/marketingBotAvatar.svg": "/static/media/marketingBotAvatar.8a3fdf2ebc3a6f6742d3e8abd33f8a39.svg",
+    "static/media/marketingUserAvatar.svg": "/static/media/marketingUserAvatar.e7d0822b0d297031925f5b64588c5c8e.svg",
+    "index.html": "/index.html",
+    "static/media/index.cjs": "/static/media/index.cd351d7c31d0d3fccf96.cjs",
+    "static/media/close.svg": "/static/media/close.fd5e740fd9b6ba2e866446f050215d98.svg",
+    "static/media/send.svg": "/static/media/send.6b04775880d7ab9d735eac1062c6c848.svg"
+  },
+  "entrypoints": [
+    "static/js/main.ecdc03c5.js"
+  ]
+}
